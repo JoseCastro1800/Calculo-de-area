@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Desktop\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe.config
+C:\Users\karla\OneDrive\Desktop\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe
+C:\Users\karla\OneDrive\Desktop\CalculoArea\CalculoArea\bin\Debug\CalculoArea.pdb
+C:\Users\karla\OneDrive\Desktop\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csprojAssemblyReference.cache
+C:\Users\karla\OneDrive\Desktop\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Desktop\CalculoArea\CalculoArea\obj\Debug\CalculoArea.exe
+C:\Users\karla\OneDrive\Desktop\CalculoArea\CalculoArea\obj\Debug\CalculoArea.pdb
